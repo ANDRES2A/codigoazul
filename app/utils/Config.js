@@ -1,0 +1,1 @@
+export const url = "http://www.puceing.edu.ec:15000/guias/api/";
